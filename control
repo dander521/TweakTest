@@ -1,0 +1,9 @@
+Package: com.roger.tingtweak
+Name: tingtweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: roger
+Author: roger
+Section: Tweaks
