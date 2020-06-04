@@ -1,5 +1,5 @@
-Package: com.roger.tingtweak
-Name: tingtweak
+Package: com.roger.wechat
+Name: wechatTweak
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
